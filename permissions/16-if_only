@@ -1,2 +1,2 @@
 #!/bin/bash
-if [owner1 == "guillaume"] then chown vincent hello fi
+if owner1 == "guillaume" then chown vincent hello fi
