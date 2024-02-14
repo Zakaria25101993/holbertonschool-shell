@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown vincent:staff /permission/*
+sudo chown vincent:staff permissions/*
